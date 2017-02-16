@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+/*페이지 요소를 담을 컨테이너
+  주석단축키 cmd + ? 
+*/
+.container{
+    width: 1100px;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #dddddd;
+}
+
+/*
+타이포그래피 디자인
+*/
+
+/* 
+본문(단락 디자인
+*/
+p{
+    margin-top: 0;
+    margin-bottom: 1.5em;
+    font-style: 12px;
+    font-family: "Spoqa Han Sans","Sans-serif";
+    line-height: 1.5;
+    letter-spacing: -0.005em;
+    color:#010101;
+
+}
+/*
+제목 디자인 
+*/
+
+h6{}
+h5{}
+h4{}
+h3{}
+h2{}
+h1{}
