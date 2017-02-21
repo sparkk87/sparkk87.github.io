@@ -1,0 +1,87 @@
+html{
+     font-size: 10px;
+}
+
+body{
+    margin: 0;
+    background-image: url(../images/leading_21px.png);
+    /*상속되는 속성 : 부모 > 자식*/
+    font-size: 1.4rem;
+    font-family: "Spoqa Han Sans","Sans-serif";
+    line-height: 1.5;
+    letter-spacing: -0.005em;
+ color:#010101;
+
+}
+
+.container{
+    width: 820px;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255,255,255,0);
+}
+
+.header{
+    margin-top: 84px;
+    margin-left: auto;
+    margin-right:auto;
+    width: 820px;
+    height: 566px;
+}
+
+.main{
+    margin-top: 0px;
+    margin-left: 0;
+    margin-right:auto;
+    width: 820px;
+}
+
+p{
+    margin-top: 0; 
+    margin-bottom:1.5em;
+    color : #333741;
+    line-height: -0.02em;
+    font-weight: 400;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin-top: 0; 
+    margin-bottom: 2.1rem;
+}
+
+h1{
+    font-size:5.463rem;
+    line-height: 6.3rem;
+    font-weight: 100;
+}
+
+h5{
+   font-size: 1.838rem;
+   line-height: 2.1rem;
+   font-weight: 400;
+   color:#787f94; 
+   letter-spacing: -0.05em;
+}
+
+h6{
+   font-size: 1.563rem;
+   line-height: 2.1rem;
+   font-weight: 400;
+   color:#47494e;
+   letter-spacing: -0.05em;
+}
+
+h3{
+    font-size: 3.169rem;
+    line-height: 4.2rem;
+    font-weight: 100;
+    color:#333741;
+    letter-spacing: -0.05em;
+}
+
+ol{
+    font-weight: 700;
+    letter-spacing: -0.01em;
+
+}

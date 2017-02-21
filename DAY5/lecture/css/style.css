@@ -17,7 +17,6 @@ body{
 /*페이지 요소를 담을 컨테이너
   주석단축키 cmd + ? 
 */
-
 .container{
     width: 1100px;
     height: 100vh;
